@@ -1,0 +1,7 @@
+E:\ikincihaftaodev\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+E:\ikincihaftaodev\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+E:\ikincihaftaodev\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+E:\ikincihaftaodev\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\ikincihaftaodev\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\ikincihaftaodev\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+E:\ikincihaftaodev\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb
